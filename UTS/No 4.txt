@@ -1,0 +1,8 @@
+1. Deklarasi class Buku
+2. Attribute/ Properti dari class Buku
+3. Deklarasi Konstruktor untuk meng-inisialisasi properti/attribute, menggunakan this untuk memanggil konstruktor parent class
+4. Setter method untuk merubah Harga
+5. Getter method untuk mendapat Harga
+6. Deklarasi class BukuKomik yang meng-extend ( mewariskan ) dari class Buku
+7. Deklarasi Konstruktor untuk meng-inisialisasi properti/attribute, menggunakan super untuk memanggil konstruktor parent class
+8. Pembuatan Object BukuKomik di main method
