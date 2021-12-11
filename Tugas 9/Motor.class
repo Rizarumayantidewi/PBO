@@ -1,0 +1,11 @@
+  class Motor extends Mobil{
+    Motor(String name, int weight, String value) {
+      super(name, weight,value);
+    }
+  
+    @Override
+    public String suara() {
+      return "ngenggg";
+    }
+  
+  }
