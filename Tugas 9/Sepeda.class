@@ -1,0 +1,16 @@
+   class Sepeda extends Kendaraan {
+    protected String name;
+    protected String value;
+    protected int weight;
+
+    Sepeda(String name, int weight, String value) {
+      this.name = name;
+    }
+    public String value() {
+      return this.value;
+    }
+  
+    public String suara() {
+      return "weessweessgowes";
+    }
+}
