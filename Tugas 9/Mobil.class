@@ -1,0 +1,11 @@
+  class Mobil extends Sepeda {
+    Mobil(String name, int weight, String value) {
+      super(name, weight, value);
+    }
+  
+    @Override
+    public String suara() {
+      return "vroomvroomm";
+    }
+
+  }
